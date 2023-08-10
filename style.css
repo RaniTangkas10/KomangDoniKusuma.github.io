@@ -1,0 +1,20 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #8a2be2; /* Warna ungu */
+    color: #ffffff; /* Warna teks putih */
+}
+
+#gallery {
+    /* background-color: #a020f0; Warna ungu tua */
+    background-color: #d8bfd8; /* Warna ungu muda */
+}
+
+section {
+    padding-top: 5rem;
+    /* background-color: #d8bfd8; Warna ungu muda */
+    background-color: #a020f0;
+}
+
+.warnaNavbar{
+    background-color: #9a6fc2;
+}
